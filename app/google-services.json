@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521557747219",
+    "project_id": "futurefurnitureui",
+    "storage_bucket": "futurefurnitureui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521557747219:android:ba0c78741d17254ff041e6",
+        "android_client_info": {
+          "package_name": "com.nac.platform.furnitureecommerceappui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521557747219-p0vup9dhpgt31dmhk75pbctmeb9stb8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtmDA5-44EehwZCCsTjzbncuQDwjNX7ak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521557747219-p0vup9dhpgt31dmhk75pbctmeb9stb8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
